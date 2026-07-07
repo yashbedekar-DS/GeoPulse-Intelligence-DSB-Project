@@ -1,0 +1,14 @@
+# GeoPulse Intelligence — Commodities & Currency Markets
+# Core data analysis stack
+pandas>=2.0.0
+numpy>=1.24.0
+
+# Visualization
+matplotlib>=3.7.0
+
+# Excel workbook export/read (used for DSB_Cleaned_Datasets.xlsx and .csv/.xlsx I/O)
+openpyxl>=3.1.0
+
+# Notebook environment
+jupyter>=1.0.0
+ipython>=8.0.0
